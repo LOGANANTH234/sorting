@@ -13,8 +13,9 @@ public class insertionSorting {
                    swap( arr,j-1 ,j);
 
                }
-               else
+               else{
                    break;
+           }
            }
         }
         return arr;
