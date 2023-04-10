@@ -3,7 +3,7 @@ import java.util.*;
 public class SelectionSorting {
     public static void main(String[] args)
     {
-        System.out.println("selectionSorting");
+       // System.out.println("selectionSorting");
 
         Scanner in = new Scanner( System.in);
         System.out.println("enter a array length");
